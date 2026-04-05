@@ -1,6 +1,6 @@
 # Data Analytics Portfolio – Faisal Alsurayhi
 
-This repository contains data analytics and optimization models developed during my Economics studies.
+These are Excel models I built throughout my undergraduate Economics coursework at George Mason. They represent real assignments — forecasting, linear programming, supply chain optimization — done before I learned Python or SQL. I'm keeping them here because they show where my analytical thinking started, not where it ended.
 
 ## Project Focus
 - Business forecasting
