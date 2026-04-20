@@ -1,39 +1,42 @@
-# Data Analytics Portfolio – Faisal Alsurayhi
+# Data Analytics Portfolio
 
-These are Excel models I built throughout my undergraduate Economics coursework at George Mason. They represent real assignments — forecasting, linear programming, supply chain optimization — done before I learned Python or SQL. I'm keeping them here because they show where my analytical thinking started, not where it ended.
+This repository contains Excel-based analytical models I built during my undergraduate Economics coursework at George Mason University.
+
+These projects reflect the early stage of my development in data analytics. Before I learned Python or SQL, I was using Excel to work through forecasting, linear programming, optimization, and business decision problems. I keep these projects here intentionally because they show where my analytical thinking started and how it developed over time.
+
+Rather than presenting only polished technical work, this portfolio also shows my progression. It reflects how I moved from foundational spreadsheet-based analysis to more advanced work in SQL, Python, and econometrics.
 
 ## Project Focus
 - Business forecasting
 - Optimization modeling
 - Linear programming
 - Decision analysis
-- Data-driven business decisions
+- Data-driven business problem solving
 
 ## Projects
 
 ### Boston Housing Value Analysis
-Analysis of housing prices using economic data.
+Analysis of housing prices using economic and quantitative methods.
 
 ### Business Forecasting and Decision Analysis
-Forecasting models used for business planning and decision making.
+Forecasting models built to support planning and business decision-making.
 
 ### Business Optimization Decision Model
-Optimization techniques used to improve operational efficiency.
+Excel-based optimization techniques used to improve efficiency and support better decisions.
 
 ### Linear Programming Resource Allocation Model
-Using linear programming to allocate limited resources efficiently.
+A resource allocation model designed to distribute limited resources more effectively.
 
 ### Operations Optimization Solver Model
-Optimization methods applied to operational decision problems.
+Solver-based modeling applied to operational and managerial decision problems.
 
 ### Supply Chain Cost Optimization Model
-Models designed to reduce logistics and supply chain costs.
+An optimization model focused on reducing logistics and supply chain costs.
 
 ### Transportation and Logistics Optimization
-Optimization models for transportation networks and logistics planning.
+A transportation model built to improve distribution and logistics planning.
 
----
-
-Author: Faisal Alsurayhi  
-Economics – George Mason University  
+## Author
+**Faisal Alsurayhi**  
+B.A. in Economics, George Mason University  
 Expected Graduation: July 2026
