@@ -49,5 +49,5 @@ A transportation model built to improve distribution and logistics planning.
 
 ## Author
 **Faisal Alsurayhi**  
-B.A. in Economics, George Mason University  
+Economics, George Mason University  
 Expected Graduation: July 2026
